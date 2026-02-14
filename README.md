@@ -1,4 +1,4 @@
-# British Airways Customer Review Analysis
+# British Airways Customer Review Analysis Dashboard
 
 ## 📊 Overview
 This project showcases an end-to-end data analysis workflow using Tableau. The objective was to analyze British Airways customer reviews to identify trends in satisfaction across different metrics, aircraft types, and geographical locations.
@@ -33,7 +33,7 @@ This project showcases an end-to-end data analysis workflow using Tableau. The o
 
 ---
 
-## 🚀 Features
+## 🚀 Key Dashboard Features
 - **Metric Selection:** Instantly switch between different types of ratings.
 - **Geographic Filters:** Analyze specific regions using a map or a dropdown menu.
 - **Temporal Analysis:** Understand satisfaction trends over time using the monthly timeline chart.
